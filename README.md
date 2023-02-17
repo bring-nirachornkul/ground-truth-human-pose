@@ -1,4 +1,5 @@
-# DrawDotApp - Creating the Ground truth
+# DrawDotApp 
+## Creating the Ground truth
 
 The "DrawDotApp" class is a GUI application for drawing dots on an image. It is designed for the purpose of creating ground truth data for human pose estimation. The user can open an image file and click on the image to draw a dot, which will be displayed in green. The coordinates of the dot will be displayed in the GUI, and the user can undo previous dots by clicking the "Undo" button.
 
