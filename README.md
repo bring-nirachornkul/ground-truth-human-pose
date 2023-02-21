@@ -19,7 +19,19 @@ Save = Save the image with the groundtruth dots and coordinates
 Clean all dots = remove all dots and coordinates
 Next image = In case you didn't save the image, it will pop up dialog box to confirm you to save the image. If you already save the image, it will allow you to load the next pic and do another circle to draw the landmark.
 
-Display the landmark, coordinate (x and y)
+Title text = Display the landmark, coordinate (x and y)
+
+
+![Screenshot_4](https://user-images.githubusercontent.com/89494368/220249049-70646dc0-e50d-4115-97b0-59fc5c374913.jpg)
+
+The program will generate the folder with time stamp after click "save" button.
+
+In that folder will contain two files, all of which are .csv file (coordinate) and .jpg (picture with the coordinate of the landmark).
+
+![Screenshot_5](https://user-images.githubusercontent.com/89494368/220249172-59bee782-ed82-4ab8-b16c-5229c1a5db98.jpg)
+
+
+![2023-02-20_21-55-52](https://user-images.githubusercontent.com/89494368/220249191-3fadcffc-972c-4019-99f5-89179d4ffebb.jpg)
 
 
 
