@@ -19,6 +19,8 @@ Save = Save the image with the groundtruth dots and coordinates
 Clean all dots = remove all dots and coordinates
 Next image = In case you didn't save the image, it will pop up dialog box to confirm you to save the image. If you already save the image, it will allow you to load the next pic and do another circle to draw the landmark.
 
+Display the landmark, coordinate (x and y)
+
 
 
 Still working in the progress.
